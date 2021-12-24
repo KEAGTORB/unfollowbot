@@ -1,6 +1,6 @@
 # unfollowbot
 
-this is a instagram bot to controll Instagram following 
+this is a bot to controll Instagram following 
 
 # installation 
 
